@@ -49,7 +49,7 @@ class NavbarContainer extends Component {
                     src={logodark}
                     alt=""
                     className="logo-dark"
-                    height="45"
+                    height="1"
                   />
                 )}
               </NavbarBrand>
